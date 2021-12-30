@@ -67,7 +67,7 @@ return {"Task1_Acc":_, " Task2_F1":_, "Task3_Acc":_}
 Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, Yunxiao Zhao, Xiaoqi Han.
 
 ### Institutions
-Shanxi University
+[Shanxi University](https://github.com/SXUNLP)
 
 ### Citation
 ```bibtex
