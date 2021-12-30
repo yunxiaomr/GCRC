@@ -7,7 +7,7 @@
 ### Leaderboard
 [GCRC Leaderboard for Explainable Evaluation ](http://cuge.baai.ac.cn/#/dataset?id=22&name=GCRC)
 
-### paper
+### Paper
 [GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://aclanthology.org/2021.findings-acl.113.pdf). ACL 2021 Findings.
 
 ### Data Size
