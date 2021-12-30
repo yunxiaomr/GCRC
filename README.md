@@ -54,7 +54,7 @@ python eval.py prediction_file test_private_file
 Participants are required to complete the following tasks:
 Task 1: Output the answer to the question.
 Task 2: Output the sentence-level supporting facts（SFs） that support the answer to the question, that is, the original supporting sentences for each option.
-Task 3: Output the error cause of the interference option. There are 7 reasons for the error in this evaluation: 1) Wrong details; 2) Wrong temporal properties; 3) Wrong subject-predicate-object triple relationship; 4) Wrong necessary and sufficient conditions; 5) Wrong causality; 6) Irrelevant to the question; 7) Irrelevant to the article.
+Task 3: Output the error cause of the interference option. There are 7 reasons for the error in this evaluation: 1) Wrong details; 2) Wrong temporal properties; 3) Wrong subject-predicate-object triple relationship; 4) Wrong necessary and sufficient conditions; 5) Wrong causality; 6) Irrelevant to the question; 7) Irrelevant to the article.
 The evaluation metrics are Task1_Acc, Task2_F1，Task3_Acc（The accuracy of error reason identification）,and the output is in dictionary format.
 ```shell
 return {"Task1_Acc":_, " Task2_F1":_, "Task3_Acc":_}
