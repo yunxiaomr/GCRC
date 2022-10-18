@@ -63,9 +63,6 @@ The evaluation metrics are Task1_Acc, Task2_F1，Task3_Acc（The accuracy of err
 return {"Task1_Acc":_, " Task2_F1":_, "Task3_Acc":_}
 ```
 
-### Author List
-Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, **Yunxiao Zhao**, Xiaoqi Han.
-
 ### Institutions
 [Shanxi University](https://github.com/SXUNLP)
 
